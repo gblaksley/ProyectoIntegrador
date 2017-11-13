@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AlterNews</string>
+
+    <!-- comentario -->
+    <string name="search_view_prompt">Buscar aca</string>
+    <string name="frase">Otro punto de vista</string>
+    <string name="autor">Desarrolladores Mobile Android con Digital House</string>
+
+</resources>

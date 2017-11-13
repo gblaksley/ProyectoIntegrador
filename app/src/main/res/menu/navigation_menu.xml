@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:title="GENERAL"
+            android:id="@+id/itemFragmentRecyclerViewGeneral"
+            android:icon="@android:drawable/btn_star">
+        </item>
+
+        <item
+            android:title="TECNOLOGIA"
+            android:id="@+id/itemFragmentRecyclerViewTecnologia"
+            android:icon="@android:drawable/btn_star">
+        </item>
+
+        <item
+            android:title="DEPORTE"
+            android:id="@+id/itemFragmentRecyclerViewDeporte"
+            android:icon="@android:drawable/btn_star">
+        </item>
+
+
+        <item
+            android:title="About Us"
+            android:id="@+id/itemFragmentAboutUs"
+            android:icon="@android:drawable/btn_star">
+        </item>
+    </group>
+</menu>
